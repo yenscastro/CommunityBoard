@@ -32,7 +32,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<[img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'](https://drive.google.com/file/d/1oOEdPAAvOI3ElDwIPU432XLCRUiWsBj2/view?usp=sharing) />
+[<[img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'](https://drive.google.com/file/d/1oOEdPAAvOI3ElDwIPU432XLCRUiWsBj2/view?usp=sharing) />](https://drive.google.com/file/d/1iEhXKP3m5ay_DVedb0LcnjFugAe1z6Aw/view?usp=sharing)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
